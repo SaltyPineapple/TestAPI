@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestAPI</string>
+    <string name="test_word">Test Word</string>
+</resources>
