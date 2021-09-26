@@ -1,6 +1,8 @@
 package com.example.testapi;
 
 import java.net.URI;
+import com.android.volley.RequestQueue;
+import com.android.volley.toolbox.Volley;
 
 public class API {
 
@@ -9,6 +11,8 @@ public class API {
     String requestURL = "https://wordsapiv1.p.rapidapi.com/words/%s";
 
     public boolean isWord(String word) {
+
+
 
         return true;
 
